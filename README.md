@@ -8,7 +8,7 @@ password
 ```
 
 ## Stats
-<script src="https://tryhackme.com/badge/1310189" ></script><br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/rahi1285.png" alt="TryHackMe">
 
 ## Thanks For Using Our Script Please Donate
 
